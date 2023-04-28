@@ -1,4 +1,0 @@
-nary
-julia
-souza
-henrique
