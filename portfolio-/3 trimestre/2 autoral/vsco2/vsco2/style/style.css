@@ -1,0 +1,26 @@
+.title{
+    font-size: 5rem;
+ }
+ .section1{
+        font-style: italic;
+    
+    }    
+.section2{
+    font-size: 4rem;
+    font-style: inherit;
+    background-color:rgb(12, 194, 36);
+ }    
+ .fundacor{
+    background-color: rgb(53, 5, 5);
+ }
+ .RODAPE{
+    font-style: italic;
+    font-size: 5rem;
+    background-color:aqua;
+
+ }
+ .letraitalica{
+    color:aliceblue
+
+ }
+ 
